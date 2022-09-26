@@ -4,3 +4,5 @@ Slot Machine is an application where a user can play this game. The game's rules
 
 You can visit and try out the website here: 
 (https://simeonwright.github.io/SlotMachine/)
+
+![Preview of Website](https://github.com/SimeonWright/SlotMachine/blob/main/pictures/previewWebsite.png)
